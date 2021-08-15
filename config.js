@@ -1,4 +1,4 @@
-const DEFAULT_ENGINE = "davinci";
+const DEFAULT_ENGINE = "curie:ft-magic-sales-bot-2021-08-12-21-54-55";
 const ENGINE_LIST = [
   "ada",
   "babbage",
